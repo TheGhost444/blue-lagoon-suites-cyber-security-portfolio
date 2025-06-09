@@ -63,3 +63,7 @@ This project is a fictional showcase built for educational and portfolio purpose
 ## 🖼️ Network Diagram
 
 - ![Smart Hotel Network Diagram](network-diagram/blue-lagoon-network-diagram.png)
+## 📦 Deliverables
+
+- [Incident Response Plan](deliverables/incident-response-plan.md)
+- [Executive Summary](deliverables/executive-summary.md)
