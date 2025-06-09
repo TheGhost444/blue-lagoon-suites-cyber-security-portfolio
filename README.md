@@ -60,3 +60,6 @@ This project is a fictional showcase built for educational and portfolio purpose
 ## ☁️ Cloud Security
 
 - [AWS Security Controls Summary](cloud-security/aws-security-controls.md)
+## 🖼️ Network Diagram
+
+- ![Smart Hotel Network Diagram](network-diagram/blue-lagoon-network-diagram.png)
