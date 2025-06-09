@@ -1,0 +1,29 @@
+blue-lagoon-suites-cybersecurity-portfolio/
+│
+├── README.md
+├── policies/
+│   ├── acceptable-use-policy.md
+│   ├── data-classification-policy.md
+│   ├── incident-response-policy.md
+│   └── guest-privacy-policy.md
+│
+├── risk-assessment/
+│   ├── risk-register.xlsx
+│   └── threat-landscape.md
+│
+├── network-architecture/
+│   └── blue-lagoon-network-diagram.png
+│
+├── cloud-security/
+│   └── aws-security-controls.md
+│
+├── compliance/
+│   ├── compliance-checklist.xlsx
+│   └── pci-dss-summary.md
+│
+├── incident-response/
+│   └── response-plan.md
+│
+├── deliverables/
+│   ├── executive-summary.pdf
+│   └── project-toc.md
