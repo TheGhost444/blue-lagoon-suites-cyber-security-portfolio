@@ -57,3 +57,6 @@ This project is a fictional showcase built for educational and portfolio purpose
 
 - [Threat Landscape](risk-assessment/threat-landscape.md)
 - [Risk Register (Markdown)](risk-assessment/risk-register.md)
+## ☁️ Cloud Security
+
+- [AWS Security Controls Summary](cloud-security/aws-security-controls.md)
