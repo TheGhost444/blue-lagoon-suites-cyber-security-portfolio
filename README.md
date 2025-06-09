@@ -48,3 +48,12 @@ This project is a fictional showcase built for educational and portfolio purpose
 
 - [Acceptable Use Policy](policies/acceptable-use-policy.md)
 - [Data Classification Policy](policies/data-classification-policy.md)
+- [Incident Response Policy](policies/incident-response-policy.md)
+- [Guest Data Privacy Policy](policies/guest-privacy-policy.md)
+
+---
+
+## 🔍 Risk Assessment
+
+- [Threat Landscape](risk-assessment/threat-landscape.md)
+- [Risk Register (Markdown)](risk-assessment/risk-register.md)
