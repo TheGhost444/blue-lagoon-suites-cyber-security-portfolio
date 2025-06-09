@@ -44,3 +44,7 @@ See individual folders for documentation and assets related to each domain.
 ## 🔒 Note
 
 This project is a fictional showcase built for educational and portfolio purposes.
+## 📑 Policies
+
+- [Acceptable Use Policy](policies/acceptable-use-policy.md)
+- [Data Classification Policy](policies/data-classification-policy.md)
